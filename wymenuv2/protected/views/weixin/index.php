@@ -1,6 +1,0 @@
-<?php
-
-new Server();
-
-?>
-
